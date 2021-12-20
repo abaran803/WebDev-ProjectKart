@@ -2,9 +2,7 @@
 
 ## About The Project
 
-It is a game having 4 levels, each having different number of blocks. A colour with its rgba value will be provided and user has to guess the block with same colour.
-
-When user select the correct block, the game over and ask to play again.
+Is is a site that can load headlines of many countries(one at a time). Here, two options are provided. First one is getting headlines by selecting a country and the second option is getting news of random country by clicking on get random button.
 
 ## Tech Stacks Used
 
